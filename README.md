@@ -1,86 +1,97 @@
-# Hi there 👋, I'm Mahadi Ur Rehman
+# Hi 👋, I'm Mahadi Ur Rehman
 
-💻 BBIT Student at Air University
+### 🚀 Python Developer | AI & NLP Enthusiast | BBIT Student @ Air University
 
-🐍 Python Developer | C++ Programmer
-
-🤖 AI & NLP Enthusiast
-
-🚀 Passionate about Software Development, Machine Learning, and Building Real-World Projects.
+I'm passionate about building software, solving real-world problems, and creating AI-powered solutions. My long-term goal is to build AI products and launch my own B2B AI startup.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently improving my Python, C++, and AI skills
-- 💡 Interested in Artificial Intelligence & Natural Language Processing
-- 💻 Solving coding problems on LeetCode
-- 🎯 Goal: Become a Software Engineer and Build AI Startups
+- 🎓 BBIT Student at Air University
+- 🐍 Python Developer
+- 💻 C++ Programmer
+- 🤖 AI & NLP Enthusiast
+- 📚 Currently learning LLM Engineering & AI Agents
+- 🧩 Solving coding problems on LeetCode & HackerRank
+- 🚀 Building projects and preparing for Software Engineering & AI opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Languages
 - Python
 - C++
 - C#
+- HTML
+- CSS
+- JavaScript
 
-**Technologies**
-
+### Technologies
 - Git
 - GitHub
-- Object-Oriented Programming
-- NLP
+- Object-Oriented Programming (OOP)
 - Machine Learning
+- Natural Language Processing (NLP)
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 HackerRank Python (Basic)
-- 🥇 freeCodeCamp Python Developer Certification
+- 🥇 HackerRank — Python (Basic)
+- 🥇 freeCodeCamp — Python Developer Certification
+- 🥇 CS107 — C++ Programming
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI & NLP
+### 🤖 AI & Machine Learning
 
 - 📰 Fake News Detection
 - 📧 Spam Email Classifier
 - 📄 Resume Screening
 
-### 💻 Python Projects
+### 🐍 Python Projects
 
 - 📚 Library Management System
 - 📧 Email Management System
 - 💰 Budget App
 - 🚌 Bus Reservation Management System
 
-### 👨‍💻 Coding
+### 💻 Coding Practice
 
-- 💻 LeetCode Solutions
-
----
-
-## 📈 Current Focus
-
-✔ Data Structures & Algorithms
-
-✔ Machine Learning
-
-✔ Natural Language Processing
-
-✔ Software Engineering
+- 🧩 LeetCode Solutions
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Currently Learning
 
-💼 LinkedIn:
-www.linkedin.com/in/mahadi-ur-rehman-siddiqui-139b93386
+- 🤖 LLM Engineering
+- 🧠 Prompt Engineering
+- 🔗 LangChain
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- 🗄️ SQL
 
-💻 GitHub:
-https://github.com/mahadiurrehman-pixel
+---
+
+## 📈 2026 Goals
+
+- ✅ Build 20+ GitHub Projects
+- ✅ Solve 300+ LeetCode Problems
+- ✅ Master AI & LLM Development
+- ✅ Land a Software Engineering Internship
+- 🚀 Build an AI Startup
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/mahadi-ur-rehman-siddiqui-139b93386
+- 💻 GitHub: https://github.com/mahadiurrehman-pixel
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*

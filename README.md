@@ -52,13 +52,15 @@ I'm passionate about building software, solving real-world problems, and creatin
 - 📰 Fake News Detection
 - 📧 Spam Email Classifier
 - 📄 Resume Screening
+  
+### C++ PROJECT
+- 🚌 Bus Reservation Management System
 
 ### 🐍 Python Projects
 
 - 📚 Library Management System
 - 📧 Email Management System
 - 💰 Budget App
-- 🚌 Bus Reservation Management System
 
 ### 💻 Coding Practice
 

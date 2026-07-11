@@ -23,7 +23,6 @@ I'm passionate about building software, solving real-world problems, and creatin
 ### Languages
 - Python
 - C++
-- C#
 - HTML
 - CSS
 - JavaScript

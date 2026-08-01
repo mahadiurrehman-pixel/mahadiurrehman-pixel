@@ -12,9 +12,9 @@ Building intelligent solutions with Machine Learning, NLP, and Generative AI.
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/mahadi-ur-rehman-pixel?style=for-the-badge&logo=github&color=236ad3)](https://github.com/mahadi-ur-rehman-pixel?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/mahadi-ur-rehman-pixel?affiliations=OWNER&style=for-the-badge&logo=github&color=236ad3)](https://github.com/mahadi-ur-rehman-pixel?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=mahadi-ur-rehman-pixel&style=for-the-badge&color=236ad3)](https://github.com/mahadi-ur-rehman-pixel)
+[![GitHub followers](https://img.shields.io/github/followers/mahadiurrehman-pixel?style=for-the-badge&logo=github&color=236ad3)](https://github.com/mahadiurrehman-pixel?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/mahadiurrehman-pixel?affiliations=OWNER&style=for-the-badge&logo=github&color=236ad3)](https://github.com/mahadiurrehman-pixel?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahadiurrehman-pixel&style=for-the-badge&color=236ad3)](https://github.com/mahadiurrehman-pixel)
 
 </div>
 
@@ -98,7 +98,7 @@ I enjoy transforming ideas into working products — from machine learning model
 > An end-to-end Machine Learning application that predicts customer churn and helps businesses identify customers at risk.
 
 🌐 **Live Demo:** [ChurnGuard App](https://customer-churn-prediction-mahadi.streamlit.app/)
-💻 **Source Code:** [GitHub Repository](https://github.com/mahadi-ur-rehman-pixel)
+💻 **Source Code:** [GitHub Repository](https://github.com/mahadiurrehman-pixel)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -119,7 +119,7 @@ I enjoy transforming ideas into working products — from machine learning model
 > An AI-powered healthcare prediction application that estimates heart disease risk using machine learning.
 
 🌐 **Live Demo:** [Heart AI Predictor](https://heart-ai-predictor-mahadi.streamlit.app/)
-💻 **Source Code:** [GitHub Repository](https://github.com/mahadi-ur-rehman-pixel)
+💻 **Source Code:** [GitHub Repository](https://github.com/mahadiurrehman-pixel)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -214,11 +214,11 @@ I enjoy transforming ideas into working products — from machine learning model
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadi-ur-rehman-pixel&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadiurrehman-pixel&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadi-ur-rehman-pixel&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadiurrehman-pixel&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadi-ur-rehman-pixel&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadiurrehman-pixel&theme=radical&hide_border=true)
 
 </div>
 
@@ -229,7 +229,7 @@ I enjoy transforming ideas into working products — from machine learning model
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahadi-ur-rehman-siddiqui-139b93386)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadi-ur-rehman-pixel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadiurrehman-pixel)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadiurrehman@gmail.com)
 
 </div>

@@ -170,7 +170,7 @@ I enjoy transforming ideas into working products — from machine learning model
 | Project | Status |
 |---------|--------|
 | 🚌 Bus Reservation Management System | ✅ Completed |
-| 📚 Library Management System | ✅ Completed |
+
 
 ---
 

@@ -214,9 +214,6 @@ I enjoy transforming ideas into working products — from machine learning model
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadiurrehman-pixel&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadiurrehman-pixel&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadiurrehman-pixel&theme=radical&hide_border=true)
 

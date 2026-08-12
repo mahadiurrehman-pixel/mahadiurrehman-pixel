@@ -344,19 +344,6 @@ I enjoy transforming ideas into working products — from machine learning model
 
 </div>
 
-### 🏅 GitHub Profile Grade
-
-<!-- Note: this grade card uses github-readme-stats.vercel.app. The public deployment is occasionally paused by its owner (503 DEPLOYMENT_PAUSED) — if the image doesn't load, the service is temporarily down and usually comes back. -->
-
-<div align="center">
-
-[![GitHub Stats with Grade](https://github-readme-stats.vercel.app/api?username=mahadiurrehman-pixel&show_icons=true&theme=radical&hide_border=true)](https://github.com/mahadiurrehman-pixel)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadiurrehman-pixel&layout=compact&theme=radical&hide_border=true)](https://github.com/mahadiurrehman-pixel)
-
-</div>
-
----
 ---
 
 ## 🌐 Connect With Me

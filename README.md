@@ -15,8 +15,7 @@ Building and deploying machine learning, deep learning, NLP, and LLM application
 [![GitHub followers](https://img.shields.io/github/followers/mahadiurrehman-pixel?style=for-the-badge&logo=github&color=236ad3)](https://github.com/mahadiurrehman-pixel?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mahadiurrehman-pixel?affiliations=OWNER&style=for-the-badge&logo=github&color=236ad3)](https://github.com/mahadiurrehman-pixel?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahadiurrehman-pixel&style=for-the-badge&color=236ad3)](https://github.com/mahadiurrehman-pixel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahadi-ur-rehman-siddiqui-139b93386)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadiurrehman@gmail.com)
+
 
 </div>
 
@@ -26,7 +25,7 @@ Building and deploying machine learning, deep learning, NLP, and LLM application
 
 Hands-on **AI/ML developer** and **BBIT student at Air University** building and deploying machine learning, deep learning, NLP, and LLM applications in Python.
 
-- 🧠 Proficient with **TensorFlow/Keras**, **CatBoost**, and modern AI workflows — local LLM integration, fine-tuning, and Retrieval-Augmented Generation (RAG)
+- 🧠 Proficient with **TensorFlow/Keras**, **CatBoost**, and modern AI workflows — local LLM integration.
 - 🚀 Developed and deployed multiple ML/DL prediction applications (ANN, CNN, classification & regression) as live web apps
 - 🤖 Built **LUCIA**, a local AI assistant with memory, NLP, multilingual support, and LLM integration
 - 📊 Passionate about data science, NLP, and intelligent systems
@@ -46,7 +45,6 @@ I enjoy transforming ideas into working products — from machine learning model
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-412991?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
@@ -74,7 +72,6 @@ I enjoy transforming ideas into working products — from machine learning model
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=spacy&logoColor=white)
 ![LLM Technologies](https://img.shields.io/badge/LLM%20Technologies-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-00C4B4?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge&logo=databricks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>

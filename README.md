@@ -243,7 +243,7 @@ I enjoy transforming ideas into working products — from machine learning model
 
 ### 📧 Spam Email Classifier
 
-> Machine learning & NLP application that classifies emails or SMS messages as spam or legitimate (97.22% accuracy).
+> Machine learning & NLP application that classifies emails or SMS messages as spam or legitimate (97.22%  accuracy).
 
 💻 **Source Code:** [GitHub Repository](https://github.com/mahadiurrehman-pixel/Spam-Email-Classifier)
 

@@ -47,7 +47,7 @@ I enjoy transforming ideas into working products — from machine learning model
 ![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
+ 
 ### 🤖 Machine Learning & Deep Learning
 
 <div align="center">

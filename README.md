@@ -3,7 +3,7 @@
 <div align="center">  
 
 ### 🤖 AI/ML Developer · Python · Machine Learning · Deep Learning · NLP / LLMs  
- 
+
 Building and deploying machine learning, deep learning, NLP, and LLM applications in Python.
  
 </div>
